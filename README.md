@@ -22,18 +22,13 @@ Intent-based routing between two specialized AIs, with RAG restricted to the kno
 Built the remittance and financial reporting modules: asynchronous spreadsheet processing on an ARQ/Redis queue with dedicated workers and an explicit job state machine.\
 `FastAPI` `async SQLAlchemy` `PostgreSQL` `Redis` `React 19` `TypeScript`
 
+*Most of my work is for clients and lives in private repositories, so the projects above are described here even when the code isn't public.*
+
 ## Stack
 
 ![Tech stack](https://skillicons.dev/icons?i=python,fastapi,java,react,ts,postgres,mongodb,docker,git)
 
-**Backend:** Python, FastAPI, Flask, Django, Java/Spring, REST APIs, SQL\
-**Frontend:** React, Vite, TypeScript, Tailwind\
-**Data & AI:** PostgreSQL, MySQL, MongoDB, BigQuery, pandas, n8n, RAG, LLM APIs\
-**Tooling:** Git, Docker, GitHub Actions, pytest, Postman, deployment (AWS, Vercel, Render, Railway)
-
-## A note on this profile
-
-Most of my work is for clients and lives in private repositories. The projects above are described here so you can see what I build even when the code isn't public.
+**Also:** Flask, Django, Spring, Vite, Tailwind, MySQL, BigQuery, pandas, n8n, RAG, LLM APIs, pytest, Postman, GitHub Actions, AWS, Vercel, Render, Railway
 
 ## Contact
 
