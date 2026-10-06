@@ -1,16 +1,38 @@
-## Hi there 👋
+# Murilo Godoy
 
-<!--
-**murilozgodoy/murilozgodoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Insper** (São Paulo) and **Technology Manager at Insper Jr.**, where I lead the technology practice — its consultants and active projects — while still writing code.
 
-Here are some ideas to get you started:
+Full stack developer with a backend focus. I mostly work with Python and FastAPI, React on the front end, and AI applications: agents, RAG and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+
+**Pulso Hospitalar** — data platform for Brazil's National Health Confederation (CNSaúde)\
+Integrates public health databases (DataSUS, CNES, SIH, IBGE, BigQuery) into dashboards with KPIs, maps and an AI agent that answers questions about the data. I was PO and developer. Chosen as the most promising solution among 8 teams and presented in Brasília to national authorities, including Brazil's Vice President. Adopted by the client and still in development.\
+[Live platform](https://www.pulsohospitalar.com.br) · [Insper article](https://www.insper.edu.br/pt/conteudos/tecnologia/alunos-de-ciencia-da-computacao-apresentam-em-brasilia-plataforma-de-visualizacao-de-dados-de-saude.html)
+
+**GPII** — internal recruitment platform for Insper Jr.\
+Built solo, end to end: candidate accounts, interview panels, approvals, automated emails and the company calendar. In production with 360 applicants. Its layered FastAPI architecture became the company's standard backend template.\
+`FastAPI` `MySQL` `React` `Vite`
+
+**Walle** — customer support and sales AI agent (Insper Jr.'s first AI project)\
+Intent-based routing between two specialized AIs, with RAG restricted to the knowledge base to prevent unsourced answers.\
+`n8n` `Supabase` `PostgreSQL`
+
+**UNAS Financial System** — financial management platform for an NGO\
+Built the remittance and financial reporting modules: asynchronous spreadsheet processing on an ARQ/Redis queue with dedicated workers and an explicit job state machine.\
+`FastAPI` `async SQLAlchemy` `PostgreSQL` `Redis` `React 19` `TypeScript`
+
+## Stack
+
+**Backend:** Python, FastAPI, Flask, Django, Java/Spring, REST APIs, SQL\
+**Frontend:** React, Vite, TypeScript, Tailwind\
+**Data & AI:** PostgreSQL, MySQL, MongoDB, BigQuery, pandas, n8n, RAG, LLM APIs\
+**Tooling:** Git, pytest, Postman, deployment (Vercel, Render, Railway) · learning Docker and GitHub Actions
+
+## A note on this profile
+
+Most of my work is for clients and lives in private repositories. The projects above are described here so you can see what I build even when the code isn't public.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/murilozgodoy) · murilozzgodoy@gmail.com
