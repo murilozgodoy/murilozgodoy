@@ -8,10 +8,10 @@ Full stack developer with a backend focus. I mostly work with Python and FastAPI
 
 **Pulso Hospitalar** — data platform for Brazil's National Health Confederation (CNSaúde)\
 Integrates public health databases (DataSUS, CNES, SIH, IBGE, BigQuery) into dashboards with KPIs, maps and an AI agent that answers questions about the data. I was PO and developer. Chosen as the most promising solution among 8 teams and presented in Brasília to national authorities, including Brazil's Vice President. Adopted by the client and still in development.\
-[Live platform](https://www.pulsohospitalar.com.br) · [Insper article](https://www.insper.edu.br/pt/conteudos/tecnologia/alunos-de-ciencia-da-computacao-apresentam-em-brasilia-plataforma-de-visualizacao-de-dados-de-saude.html)
+[Insper article](https://www.insper.edu.br/pt/conteudos/tecnologia/alunos-de-ciencia-da-computacao-apresentam-em-brasilia-plataforma-de-visualizacao-de-dados-de-saude.html)
 
 **GPII** — internal recruitment platform for Insper Jr.\
-Built solo, end to end: candidate accounts, interview panels, approvals, automated emails and the company calendar. In production with 360 applicants. Its layered FastAPI architecture became the company's standard backend template.\
+Built end to end: candidate accounts, interview panels, approvals, automated emails and the company calendar. In production with hundreds of applicants. Its layered FastAPI architecture became the company's standard backend template.\
 `FastAPI` `MySQL` `React` `Vite`
 
 **Walle** — customer support and sales AI agent (Insper Jr.'s first AI project)\
@@ -24,10 +24,12 @@ Built the remittance and financial reporting modules: asynchronous spreadsheet p
 
 ## Stack
 
+![Tech stack](https://skillicons.dev/icons?i=python,fastapi,java,react,ts,postgres,mongodb,docker,git)
+
 **Backend:** Python, FastAPI, Flask, Django, Java/Spring, REST APIs, SQL\
 **Frontend:** React, Vite, TypeScript, Tailwind\
 **Data & AI:** PostgreSQL, MySQL, MongoDB, BigQuery, pandas, n8n, RAG, LLM APIs\
-**Tooling:** Git, pytest, Postman, deployment (Vercel, Render, Railway) · learning Docker and GitHub Actions
+**Tooling:** Git, Docker, GitHub Actions, pytest, Postman, deployment (AWS, Vercel, Render, Railway)
 
 ## A note on this profile
 
